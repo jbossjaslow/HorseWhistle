@@ -1,1 +1,1 @@
-* Updated release versioning script
+* Fixed fabric-api required version
